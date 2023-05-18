@@ -15,7 +15,7 @@ import { notFound, errorHandler } from './middleware/errorMiddleware.js';
 
 import productRoutes from './routes/productRoutes.js';
 import userRoutes from './routes/userRoutes.js';
-import authRoutes from './routes/authRoutes.js';
+import authRoutes from './routes/authRoutes.js';                
 import orderRoutes from './routes/orderRoutes.js';
 import configRoutes from './routes/configRoutes.js';
 import uploadRoutes from './routes/uploadRoutes.js';
